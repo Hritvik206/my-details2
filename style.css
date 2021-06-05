@@ -1,0 +1,59 @@
+.hibye{
+    color:blue;
+}
+.submit{
+    background-color: red;
+    color:blue;
+    cursor: pointer;
+}
+body{
+    background-color:#08fffb;
+}
+.inp-1{
+    background-color: #ffa500;
+    color:blue;
+}
+.mf{
+    background-color: pink;
+    color: blue;
+}
+.mj{
+    background-color: pink;
+    color: blue;
+}
+.inp-2{
+    background-color: #ffa500;
+    color:blue;
+}
+.sel-1{
+    background-color:#663399;
+    color: blue;
+}
+.sel-2{
+background-color:#8000ff;
+color: blue;
+}
+.dateofbirth{
+    color: blue;
+    background-color: yellow;
+}
+.inp-3{
+    color: blue;
+    background-color: #ffa500;
+}
+.sel-3{
+    background-color: #ff3434;
+    color: blue;
+}
+.hsen{
+    background-color: chocolate;
+    color: blue;
+}
+.hsenm{
+    background-color: chocolate;
+    color: blue;
+}
+.fov{
+    color:blue ;
+    background-color: #9dff00;
+    }
